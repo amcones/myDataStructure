@@ -1,4 +1,4 @@
-module myDataStructure
+module github.com/amcones/myDataStructure
 
 go 1.20
 
